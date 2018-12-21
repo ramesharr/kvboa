@@ -211,6 +211,25 @@ img {
     background-repeat: no-repeat;
 	 
 }	
+.reg-form{
+  width: 50%;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+.reg-form-1{
+    display: block;
+}
+.reg-form-2{
+  display: none;
+  padding-bottom: 20px;
+}
+.container-title{
+  background-color: #266c0c;
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 24px;
+}
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .section-heading h2 {
         font-size: 30px; } }
