@@ -170,4 +170,6 @@
         });
       }, false);
 
+    $("li:nth-child(2) a,li:nth-child(4) a,li:nth-child(5) a").removeAttr("href");
+    
 })(jQuery);
