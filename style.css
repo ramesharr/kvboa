@@ -205,11 +205,10 @@ img {
     background-image: url(img/bg-img/home_opening.JPG);
     background-size: 100%;
     width: 100%;
-    height: 900px;
+    height: 370px;
     display: block;
-    background-position: center;
+    background-position: 0px -379px;
     background-repeat: no-repeat;
-	 
 }	
 .reg-form{
   width: 50%;
@@ -229,6 +228,9 @@ img {
   padding-top: 10px;
   padding-bottom: 10px;
   font-size: 24px;
+}
+.carouselarea{
+  display:none;
 }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .section-heading h2 {
